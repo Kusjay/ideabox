@@ -1,3 +1,3 @@
 # ideabox
 
-IdeaBox is a node js app that allows you jot down ideas that comes through your mind, before executing.
+Ideabox is a Node/Express app that allows you jot down ideas for future execution.
