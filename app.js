@@ -22,7 +22,7 @@ const db = require('./config/database');
 
 // Connect to mongoose
 mongoose.connect(db.mongoURI, {
-  useNewUrlParser: true
+  
 })
   .then(() => console.log('MongoDB Connected...'))
   .catch(err => console.log(err));
